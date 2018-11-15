@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Products.cs](./CS/WebSite/App_Code/Products.cs) (VB: [Products.vb](./VB/WebSite/App_Code/Products.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+<!-- default file list end -->
 # ASPxGridView- How to implement extended keyboard functionality
 
 
