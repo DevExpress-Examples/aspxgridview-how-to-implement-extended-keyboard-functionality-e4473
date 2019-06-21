@@ -5,6 +5,9 @@
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 <!-- default file list end -->
 # ASPxGridView- How to implement extended keyboard functionality
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4473/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to implement extended keyboard functionality for ASPxGridView. Use the following keys for the CRUD operations:</p><p><strong>F2</strong><strong> </strong>- Edit the selected row;<br />
